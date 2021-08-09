@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giacomo
+- 👋 Hi, I’m @gi-ba-bu
 - 👀 I’m interested in data science, maths, statistics, education, communication
 - 🌱 I’m currently learning more about data science 
 
