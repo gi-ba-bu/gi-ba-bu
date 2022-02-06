@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gi-ba-bu
-- 👀 I’m interested in maths, statistics, data science, web development, NLP and sustainability
+- 👋 Hi
+- 👀 I’m interested in web development, maths, statistics, data science, NLP and sustainability.
 
 
 <!---
