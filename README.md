@@ -1,5 +1,5 @@
 - 👋 Hi
-- ✨ I’m interested in web development, maths, statistics, data science, NLP and sustainability.
+- ✨ I’m interested in software engineering, web development, maths, statistics, data science, NLP and sustainability.
 - 👀 Visit my website at this [link](https://gbaldo.netlify.app/)
 
 
